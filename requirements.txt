@@ -1,9 +1,9 @@
-streamlit
+streamlit==1.35.0
 numpy
 joblib
 requests
-tensorflow
+tensorflow==2.15.0
 fpdf
-pillow
+Pillow
 pandas
 plotly
