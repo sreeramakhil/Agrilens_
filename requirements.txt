@@ -1,0 +1,9 @@
+streamlit
+numpy
+joblib
+requests
+tensorflow
+fpdf
+pillow
+pandas
+plotly
