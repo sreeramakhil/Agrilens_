@@ -2,7 +2,7 @@ streamlit
 numpy
 joblib
 requests
-tensorflow==2.15.0
+tensorflow
 fpdf
 Pillow
 pandas
